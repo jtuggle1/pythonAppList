@@ -1,1 +1,1 @@
-# pythonAppList
+Simple app to sort and print off every Application locally
